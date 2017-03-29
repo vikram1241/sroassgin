@@ -1,0 +1,5 @@
+*.json*
+*.JSON*
+node_modules
+data
+output
